@@ -1,0 +1,33 @@
+body {
+	margin:20px;
+}
+
+table {
+	width:90%;
+	margin: 0 auto;
+}
+
+label.col-form-label, .bold {
+	font-weight: 700;
+	font-size:20px;
+}
+
+.btn-danger {
+	padding:1px;
+	margin: 5px;
+}
+
+
+p {
+	margin-left:15px;
+}
+
+ul {
+	margin-left: 30px;
+}
+
+.main-btn {
+	width:80%;
+	font-size:30px;
+	padding:15px;
+}
